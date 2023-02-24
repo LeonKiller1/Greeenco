@@ -1,0 +1,184 @@
+* {
+  position: relative;
+}
+
+.banner {
+  width: 1920px;
+  height: 1018.15px;
+  background: white;
+  position: relative;
+}
+.banner__menu {
+  width: 1340px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin: 72px 290px 0px;
+}
+.banner__greeenco {
+  width: 1340px;
+  height: 167.86px;
+  margin-left: 290px;
+  margin-right: 290px;
+  margin-top: 377px;
+}
+.banner__plant {
+  position: absolute;
+  left: 786px;
+  top: 212px;
+  right: 560px;
+}
+.banner__text {
+  font-family: "Akronim";
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  color: #7A797A;
+  margin-left: 290px;
+  margin-top: 16.07px;
+}
+
+.rectangle {
+  width: 1921px;
+  height: 793px;
+  left: -0.05%;
+  right: 0%;
+  top: 32.04%;
+  bottom: 44.5%;
+  background: #4A4A4A;
+}
+.rectangle__text {
+  width: 434px;
+  height: 419px;
+  position: absolute;
+  left: 55.57%;
+  right: 21.82%;
+  top: 21.78%;
+  bottom: 49.82%;
+}
+.rectangle_title {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 81px;
+  line-height: 100px;
+  letter-spacing: 18.9844px;
+  color: #FFFFFF;
+}
+.rectangle_lorem {
+  font-family: "Mukta Vaani";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+  text-align: justify;
+  color: #FFFFFF;
+}
+
+.social {
+  position: relative;
+}
+.social-inst {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 42px;
+  margin-top: 475px;
+}
+.social-fcb {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 42px;
+  margin-top: 511px;
+}
+.social-twt {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 42px;
+  margin-top: 548px;
+}
+
+.rectangle__image {
+  margin-top: 141px;
+  margin-left: 241px;
+}
+
+.button_gallery {
+  border: 3px solid #979797;
+  width: 431px;
+  height: 91px;
+  color: #979797;
+  position: absolute;
+  left: 55.73%;
+  right: 21.82%;
+  top: 118.17%;
+  bottom: 38.14%;
+}
+
+.button_text {
+  font-family: "Koulen";
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 65px;
+  letter-spacing: 8px;
+  color: #7A797A;
+  margin: 15px 48px;
+  text-align: center;
+}
+
+.vases {
+  width: 1019px;
+  height: 619px;
+  display: flex;
+  margin-top: 507px;
+  margin-left: 450px;
+  margin-right: 451px;
+}
+.vases__img-left {
+  width: 380px;
+  height: 419px;
+}
+.vases__img-descr-left {
+  font-family: "Mukta Vaani";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+  text-align: center;
+  color: #4A4A4A;
+  width: 285px;
+  height: 175px;
+  margin-top: 24px;
+  margin-left: 55px;
+}
+.vases__img-descr-right {
+  font-family: "Mukta Vaani";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+  text-align: center;
+  color: #4A4A4A;
+  width: 411px;
+  height: 105px;
+  margin-top: 24px;
+  margin-left: 110px;
+}
+
+.vases__text-left {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 48px;
+  color: #7A797A;
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  width: 33px;
+  height: 550px;
+}
+
+.plant {
+  margin-left: 107px;
+  margin-top: 160px;
+}
+
+/*# sourceMappingURL=style.css.map */
